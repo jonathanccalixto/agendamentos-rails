@@ -1,0 +1,15 @@
+Agendas
+  - 1 profissional
+  - horarios por dia (configuravel) padrão 30 min
+  - inicio e fim (configuravel) padrão 8 as 12 e 14 as 18
+  - agendamento (cada agenda é um horario agendado)
+    - descrição
+    - data
+    - horario
+    - 1 paciente
+    - status
+    - executado em
+    - cancelado em
+    - referencia reagendamento
+    - observações
+    - tags
